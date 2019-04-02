@@ -3,16 +3,23 @@
   "id": "VisualStudioInstallerPatcher",
   "version": "1.2.0",
   "name": "Visual Studio Installer Patcher",
-  "description": "Patches version information for Visual Studio Installer projects (vdproj).",
+  "description": "Patches the version for Visual Studio Installer projects (vdproj) and updates all necessary guids.",
   "publisher": "RedAppleGroup",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rasjon/Patches-Visual-Studio-Installer-vdproj-version-information.git"
+    "url": "https://github.com/sourceinsurance/Visual-Studio-Installer-Patcher"
   },
   "links": {
-    "support": "https://github.com/rasjon/Patches-Visual-Studio-Installer-vdproj-version-information.git"
+    "support": "https://github.com/sourceinsurance/Visual-Studio-Installer-Patcher"
   },
-  "screenshots": [],
+  "screenshots": [
+    {
+      "path": "Images\\Task.png"
+    },
+    {
+      "path": "Images\\TaskOptions.png"
+    }
+  ],
   "content": {
     "details": {
       "path": "README.md"
