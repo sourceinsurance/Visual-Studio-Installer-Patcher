@@ -42,7 +42,7 @@ Function Patch-File
 
 Function Start-Patching
 {
-	$regex = "\d{1,2}.\d{1,2}.\d{1,4}"
+	$regex = "^\d{1,2}.\d{1,2}.\d{1,4}$"
 
 	If(!($Version -match $regex))
 	{

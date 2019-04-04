@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "VisualStudioInstallerPatcher",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "name": "Visual Studio Installer Patcher",
   "description": "Patches the version for Visual Studio Installer projects (vdproj) and updates all necessary guids.",
   "publisher": "RedAppleGroup",
